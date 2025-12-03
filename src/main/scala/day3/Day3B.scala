@@ -1,9 +1,8 @@
 package day3
 
-import scala.annotation.{nowarn, tailrec}
+import scala.annotation.tailrec
 import scala.io.Source
 
-@nowarn
 object Day3B:
 
   type Joltage = Int
